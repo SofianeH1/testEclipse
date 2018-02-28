@@ -50,3 +50,7 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+
+#eclipse
+.project
+.classpath
